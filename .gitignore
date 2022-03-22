@@ -1,1 +1,7 @@
-node_modules/
+/node_modules/
+/dist/
+/.vscode/
+.idea
+.env*.local
+manifest.yml
+/.env.local
